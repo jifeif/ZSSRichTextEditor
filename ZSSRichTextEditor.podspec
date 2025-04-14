@@ -33,5 +33,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = "CoreGraphics", "CoreText"
   s.requires_arc = true
-  s.dependency 'TZImagePickerController', '~> 3.5.0'
+  s.dependency 'TZImagePickerController'
 end
